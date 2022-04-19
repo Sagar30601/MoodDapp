@@ -1,0 +1,10 @@
+const MoodContractABI = [
+    {
+        "constant": true,
+        "inputs": [],
+        "name"
+    },
+    {
+
+    }
+]

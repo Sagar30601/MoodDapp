@@ -1,0 +1,18 @@
+const MoodContractABI = [
+    {
+        "constant": true,
+        "inputs": [],
+        "name": "getMood",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "payable": false
+    },
+    {
+
+    }
+]
